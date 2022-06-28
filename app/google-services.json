@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064370434222",
+    "project_id": "tbc-homework-5",
+    "storage_bucket": "tbc-homework-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064370434222:android:f3c5ae5ca24dea308f3d3f",
+        "android_client_info": {
+          "package_name": "com.example.homework5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064370434222-p26rhifdjpegos76bukcaaer375ks8nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFHkHI8RdQA_evw044hlAf4aw6FFkQ1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064370434222-p26rhifdjpegos76bukcaaer375ks8nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
